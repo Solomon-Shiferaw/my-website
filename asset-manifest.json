@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Solomon-Shiferaw/my-website.git/static/css/main.698f9191.css",
+    "main.js": "/Solomon-Shiferaw/my-website.git/static/js/main.34c1e92f.js",
+    "index.html": "/Solomon-Shiferaw/my-website.git/index.html",
+    "main.698f9191.css.map": "/Solomon-Shiferaw/my-website.git/static/css/main.698f9191.css.map",
+    "main.34c1e92f.js.map": "/Solomon-Shiferaw/my-website.git/static/js/main.34c1e92f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698f9191.css",
+    "static/js/main.34c1e92f.js"
+  ]
+}
